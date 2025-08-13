@@ -3,3 +3,4 @@
 ## Seção 1: Introdução
 
 1. [x] 1. Apresentação do curso
+2. [x] 2. Introdução
