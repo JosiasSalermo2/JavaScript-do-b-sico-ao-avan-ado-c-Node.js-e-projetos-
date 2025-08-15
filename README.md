@@ -7,3 +7,4 @@
 3. [x] 3. O que é JavaScript
 4. [x] 4. Onde o JavaScript é utilizado?
 5. [x] 5. Fazendo download do VSCode (editor de texto utilizado no curso)
+6. [x] 6. Como executar JS no navegador por arquivo
