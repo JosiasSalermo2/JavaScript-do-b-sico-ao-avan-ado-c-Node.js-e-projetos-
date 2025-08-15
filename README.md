@@ -6,3 +6,4 @@
 2. [x] 2. Introdução
 3. [x] 3. O que é JavaScript
 4. [x] 4. Onde o JavaScript é utilizado?
+5. [x] 5. Fazendo download do VSCode (editor de texto utilizado no curso)
