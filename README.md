@@ -11,3 +11,4 @@
 7. [x] 7. Como executar JS diretamente no navegador
 8. [x] 8. Maneira Alternativa de executar JS
 9. [x] 9. Como pesquisar problemas/dúvidas de código no Stackoverflow
+10. [x] 10. Como pesquisar problemas/dúvidas de código no Google
