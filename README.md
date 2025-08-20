@@ -16,4 +16,5 @@
 12. [x] 12. Slides do Curso.
 13. [x] 13. Indicações de Livros
 14. [x] 14. Conclusão da seção
-15. [x] 15. Como utilizar o Prettier no Visual Studio Code 
+15. [x] 15. Como utilizar o Prettier no Visual Studio Code
+16. [x] 16. Arquivos do curso
