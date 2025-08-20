@@ -14,4 +14,5 @@
 10. [x] 10. Como pesquisar problemas/dúvidas de código no Google
 11. [x] 11. Minha sugestão para você acompanhar o curso
 12. [x] 12. Slides do Curso.
+13. [x] 13. Indicações de Livros
 
