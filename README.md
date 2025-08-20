@@ -12,3 +12,4 @@
 8. [x] 8. Maneira Alternativa de executar JS
 9. [x] 9. Como pesquisar problemas/dúvidas de código no Stackoverflow
 10. [x] 10. Como pesquisar problemas/dúvidas de código no Google
+11. [x] 11. Minha sugestão para você acompanhar o curso
