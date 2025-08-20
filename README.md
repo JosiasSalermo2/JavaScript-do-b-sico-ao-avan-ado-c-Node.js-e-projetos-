@@ -20,3 +20,7 @@
 16. [x] 16. Arquivos do curso
 17. [x] 17. Como aprender programação mais rápido e ter sucesso na carreira
 18. [x] 18. Teste para saber sua dificuldade com programação
+
+## Seção 2: Tipos de dado e operadores lógicos
+
+19. [x] Introdução da seção
