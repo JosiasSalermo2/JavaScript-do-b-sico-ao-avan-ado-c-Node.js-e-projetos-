@@ -23,4 +23,5 @@
 
 ## Seção 2: Tipos de dado e operadores lógicos
 
-19. [x] Introdução da seção
+19. [x] 19. Introdução da seção
+20. [x] 20. O que são tipos de dados?
