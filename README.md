@@ -18,3 +18,4 @@
 14. [x] 14. Conclusão da seção
 15. [x] 15. Como utilizar o Prettier no Visual Studio Code
 16. [x] 16. Arquivos do curso
+17. [x] 17. Como aprender programação mais rápido e ter sucesso na carreira
