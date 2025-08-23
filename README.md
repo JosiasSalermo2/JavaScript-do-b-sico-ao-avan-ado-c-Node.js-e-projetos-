@@ -25,3 +25,4 @@
 
 19. [x] 19. Introdução da seção
 20. [x] 20. O que são tipos de dados?
+21. [x] 21. Tipo de dado: number
