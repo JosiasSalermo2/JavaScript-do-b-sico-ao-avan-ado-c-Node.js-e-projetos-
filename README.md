@@ -27,3 +27,4 @@
 20. [x] 20. O que são tipos de dados?
 21. [x] 21. Tipo de dado: number
 22. [x] 22. Operações aritméticas com number
+23. [x] 23. Conhecendo os special numbers
