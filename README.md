@@ -29,3 +29,4 @@
 22. [x] 22. Operações aritméticas com number
 23. [x] 23. Conhecendo os special numbers
 24. [x] 24. Tipo de dado: String
+25. [x] 25. Mais sobre strings
