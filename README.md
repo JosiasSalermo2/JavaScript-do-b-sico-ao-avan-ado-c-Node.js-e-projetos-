@@ -30,3 +30,5 @@
 23. [x] 23. Conhecendo os special numbers
 24. [x] 24. Tipo de dado: String
 25. [x] 25. Mais sobre strings
+26. [x] 26. Tipo de dado: Boolean
+27. [x] 27. Comparações com booleans
