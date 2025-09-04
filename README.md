@@ -32,3 +32,4 @@
 25. [x] 25. Mais sobre strings
 26. [x] 26. Tipo de dado: Boolean
 27. [x] 27. Comparações com booleans
+28. [x] 28. Operadores Lógicos: teoria
