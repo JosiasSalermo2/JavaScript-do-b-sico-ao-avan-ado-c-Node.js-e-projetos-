@@ -34,3 +34,4 @@
 27. [x] 27. Comparações com booleans
 28. [x] 28. Operadores Lógicos: teoria
 29. [x] 29. Operadores Lógicos: prática
+30. [x] 30. Operadores ternários
