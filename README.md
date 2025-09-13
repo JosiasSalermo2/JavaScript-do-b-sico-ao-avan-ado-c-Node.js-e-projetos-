@@ -20,18 +20,19 @@
 16. [x] 16. Arquivos do curso
 17. [x] 17. Como aprender programação mais rápido e ter sucesso na carreira
 18. [x] 18. Teste para saber sua dificuldade com programação
+19. [x] 19. Aviso de Atualização
 
 ## Seção 2: Tipos de dado e operadores lógicos
 
-19. [x] 19. Introdução da seção
-20. [x] 20. O que são tipos de dados?
-21. [x] 21. Tipo de dado: number
-22. [x] 22. Operações aritméticas com number
-23. [x] 23. Conhecendo os special numbers
-24. [x] 24. Tipo de dado: String
-25. [x] 25. Mais sobre strings
-26. [x] 26. Tipo de dado: Boolean
-27. [x] 27. Comparações com booleans
-28. [x] 28. Operadores Lógicos: teoria
-29. [x] 29. Operadores Lógicos: prática
-30. [x] 30. Operadores ternários
+20. [x] 20. Introdução da seção
+21. [x] 21. O que são tipos de dados?
+22. [x] 22. Tipo de dado: number
+23. [x] 23. Operações aritméticas com number
+24. [x] 24. Conhecendo os special numbers
+25. [x] 25. Tipo de dado: String
+26. [x] 26. Mais sobre strings
+27. [x] 27. Tipo de dado: Boolean
+28. [x] 28. Comparações com booleans
+29. [x] 29. Operadores Lógicos: teoria
+30. [x] 30. Operadores Lógicos: prática
+31. [x] 31. Operadores ternários
