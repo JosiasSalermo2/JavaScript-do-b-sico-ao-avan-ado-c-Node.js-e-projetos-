@@ -37,3 +37,4 @@
 30. [x] 30. Operadores Lógicos: prática
 31. [x] 31. Operadores ternários
 32. [x] 32. Conhecendo os empty values
+33. [x] 33. Conversão automática de valor
