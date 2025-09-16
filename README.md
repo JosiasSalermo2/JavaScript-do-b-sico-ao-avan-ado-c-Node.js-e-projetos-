@@ -36,3 +36,4 @@
 29. [x] 29. Operadores Lógicos: teoria
 30. [x] 30. Operadores Lógicos: prática
 31. [x] 31. Operadores ternários
+32. [x] 32. Conhecendo os empty values
