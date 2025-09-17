@@ -1,5 +1,31 @@
 # JavaScript do básico ao avançado com Node e Projetos
 
+
+## Seção 3: exercícios sobre tipos de dados
+35. [x] 35. Introdução da seção
+36. [x] 36. Exercício 01: explicação
+37. [x] 37. Exercício 01: solução
+
+
+## Seção 2: Tipos de dado e operadores lógicos
+
+20. [x] 20. Introdução da seção
+21. [x] 21. O que são tipos de dados?
+22. [x] 22. Tipo de dado: number
+23. [x] 23. Operações aritméticas com number
+24. [x] 24. Conhecendo os special numbers
+25. [x] 25. Tipo de dado: String
+26. [x] 26. Mais sobre strings
+27. [x] 27. Tipo de dado: Boolean
+28. [x] 28. Comparações com booleans
+29. [x] 29. Operadores Lógicos: teoria
+30. [x] 30. Operadores Lógicos: prática
+31. [x] 31. Operadores ternários
+32. [x] 32. Conhecendo os empty values
+33. [x] 33. Conversão automática de valor
+34. [x] 34. Conclusão da seção
+
+
 ## Seção 1: Introdução
 
 1. [x] 1. Apresentação do curso
@@ -22,19 +48,3 @@
 18. [x] 18. Teste para saber sua dificuldade com programação
 19. [x] 19. Aviso de Atualização
 
-## Seção 2: Tipos de dado e operadores lógicos
-
-20. [x] 20. Introdução da seção
-21. [x] 21. O que são tipos de dados?
-22. [x] 22. Tipo de dado: number
-23. [x] 23. Operações aritméticas com number
-24. [x] 24. Conhecendo os special numbers
-25. [x] 25. Tipo de dado: String
-26. [x] 26. Mais sobre strings
-27. [x] 27. Tipo de dado: Boolean
-28. [x] 28. Comparações com booleans
-29. [x] 29. Operadores Lógicos: teoria
-30. [x] 30. Operadores Lógicos: prática
-31. [x] 31. Operadores ternários
-32. [x] 32. Conhecendo os empty values
-33. [x] 33. Conversão automática de valor
